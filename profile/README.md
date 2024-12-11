@@ -6,11 +6,6 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=likhon-dev&color=blueviolet)
 </div>
 
-## 🌈 Who Am I | আমার পরিচয়
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Web+Development+Expert+👨‍💻;React+and+Node.js+Specialist+🚀;Creative+Solutions+Architect+✨;বাংলাদেশি+ডেভেলপার+💻" alt="Typing Introduction" />
-</div>
 
 ## 🚀 Professional Overview | পেশাদার পরিচিতি
 
@@ -27,17 +22,6 @@ I'm a passionate **Full-Stack Developer** specializing in crafting innovative we
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-## 📊 GitHub Analytics | গিটহাব বিশ্লেষণ
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=likhon-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhon-dev&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
-## 🔥 Contribution Streak | অবদান গ্রাফ
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=likhon-dev&theme=radical)](https://git.io/streak-stats)
 
 ## 🌐 Connect With Me | যোগাযোগ
 
