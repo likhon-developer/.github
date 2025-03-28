@@ -6,17 +6,21 @@
 
 ## 💡 Our Vision
 
-**Crafting cutting-edge technological solutions that bridge AI and web development, with a focus on innovation from Bangladesh** 
+**Crafting cutting-edge technological solutions that bridge AI and web development, with a focus on innovation from Bangladesh**
 
 [![GitHub followers](https://img.shields.io/github/followers/likhon-developer?style=social)](https://github.com/likhon-developer)
 [![AI Innovation](https://img.shields.io/badge/AI-Innovation-2C3E50)](https://likhon.dev)
 [![Full Stack Development](https://img.shields.io/badge/Full%20Stack-Development-27AE60)](https://likhon.dev)
 
+---
+
 ## 🔧 Core Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,python,ai,github,dotnet" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,python,ai,github,dotnet" alt="Core Technologies" />
 </div>
+
+---
 
 ## 🌟 Flagship Projects
 
@@ -27,6 +31,8 @@
 - State-of-the-art performance in GPQA, MMLU, HumanEval
 - Pioneering AI solutions tailored for South Asian contexts
 
+**[Explore the Likhon 3.5 Repository](https://github.com/nectariferous/likhon-3.5)**
+
 ### Web Application Ecosystem
 ![Development Status](https://img.shields.io/badge/Status-In%20Progress-3498DB)
 
@@ -34,14 +40,21 @@
 - Powered by React, Node.js, and cutting-edge frameworks
 - Innovative architectural design pushing technological boundaries
 
+**[View All Repositories](https://github.com/likhon-developer)**
+
+---
+
 ## 👨‍💻 Team Spotlight
 
 <div align="center">
-  <img src="https://github.com/likhon-sheikh.png" width="150" style="border-radius: 50%; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <img src="https://github.com/likhonsheikh54.png" width="150" style="border-radius: 50%; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" alt="Likhon Sheikh Profile Picture">
   
   ### Likhon Sheikh
-  **Full Stack Innovator** | Bangladesh 🇧🇩
+  **Full Stack Innovator** | Bangladesh 🇧🇩  
+  *Creator of Likhon 3.5 and Lead Developer at Likhon Developer*
 </div>
+
+---
 
 ## 🗺️ Development Roadmap
 
@@ -50,11 +63,15 @@
 - [ ] Expand Global Developer Community
 - [ ] Open-source Contribution Initiatives
 
+---
+
 ## 📬 Connect & Collaborate
 
 [![Email](https://img.shields.io/badge/Email-Contact-FF4136?logo=gmail)](mailto:me@likhon.dev)
 [![Telegram](https://img.shields.io/badge/Telegram-Community-2C3E50?logo=telegram)](https://t.me/likhondev)
 [![Website](https://img.shields.io/badge/Portfolio-Visit-27AE60?logo=web)](https://likhon.dev)
+
+---
 
 ## 🤝 Contribution Welcome
 
