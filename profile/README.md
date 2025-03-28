@@ -1,71 +1,78 @@
-# Likhon Developer
+# 🚀 Likhon Developer: Innovating at the Intersection of AI and Web Development
 
-Welcome to **Likhon Developer**, a vibrant community of passionate developers dedicated to crafting innovative and scalable web applications. Led by full-stack developer **Likhon Sheikh** from Bangladesh, we harness cutting-edge technologies like **React**, **Node.js**, and AI-driven solutions to build impactful, modern software. 🚀
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nectariferous/brand-assets/main/likhon-developer-illustration.svg" alt="Likhon Developer Illustration" width="400">
+</div>
+
+## 💡 Our Vision
+
+**Crafting cutting-edge technological solutions that bridge AI and web development, with a focus on innovation from Bangladesh** 
+
+[![GitHub followers](https://img.shields.io/github/followers/likhon-developer?style=social)](https://github.com/likhon-developer)
+[![AI Innovation](https://img.shields.io/badge/AI-Innovation-2C3E50)](https://likhon.dev)
+[![Full Stack Development](https://img.shields.io/badge/Full%20Stack-Development-27AE60)](https://likhon.dev)
+
+## 🔧 Core Technologies
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,python,ai,github,dotnet" />
+</div>
+
+## 🌟 Flagship Projects
+
+### Likhon 3.5 AI Model
+![AI Model Status](https://img.shields.io/badge/Status-Active-27AE60)
+
+- **Multilingual AI Excellence**
+- State-of-the-art performance in GPQA, MMLU, HumanEval
+- Pioneering AI solutions tailored for South Asian contexts
+
+### Web Application Ecosystem
+![Development Status](https://img.shields.io/badge/Status-In%20Progress-3498DB)
+
+- Scalable, modern web applications
+- Powered by React, Node.js, and cutting-edge frameworks
+- Innovative architectural design pushing technological boundaries
+
+## 👨‍💻 Team Spotlight
+
+<div align="center">
+  <img src="https://github.com/likhon-sheikh.png" width="150" style="border-radius: 50%; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  
+  ### Likhon Sheikh
+  **Full Stack Innovator** | Bangladesh 🇧🇩
+</div>
+
+## 🗺️ Development Roadmap
+
+- [x] Launch Likhon 3.5 AI Model
+- [ ] Comprehensive AI Web App Integration
+- [ ] Expand Global Developer Community
+- [ ] Open-source Contribution Initiatives
+
+## 📬 Connect & Collaborate
+
+[![Email](https://img.shields.io/badge/Email-Contact-FF4136?logo=gmail)](mailto:me@likhon.dev)
+[![Telegram](https://img.shields.io/badge/Telegram-Community-2C3E50?logo=telegram)](https://t.me/likhondev)
+[![Website](https://img.shields.io/badge/Portfolio-Visit-27AE60?logo=web)](https://likhon.dev)
+
+## 🤝 Contribution Welcome
+
+We believe in collaborative innovation! Whether you're a:
+- 🖥️ Developer looking to contribute
+- 🧠 AI enthusiast with groundbreaking ideas
+- 📚 Tech researcher exploring new frontiers
+
+**Your unique perspective can drive our next breakthrough!**
+
+### Quick Contribution Steps
+1. Explore our [repositories](https://github.com/likhon-developer)
+2. Review project guidelines
+3. Fork and submit pull requests
+4. Join our vibrant tech community
 
 ---
 
-## About Us
+**Transforming Possibilities, One Innovative Solution at a Time** 💻✨
 
-At **Likhon Developer**, we strive to push the boundaries of technology through collaboration and open-source innovation. Our expertise lies in **full-stack web development** and **artificial intelligence**, with a mission to deliver scalable applications and advanced AI models that solve real-world problems.
-
----
-
-## Projects
-
-Discover some of our standout projects:
-
-- **[Likhon 3.5](https://github.com/nectariferous/likhon-3.5)**  
-  A multilingual AI model developed in Bangladesh, excelling in benchmarks like **GPQA**, **MMLU**, and **HumanEval**. This project highlights our commitment to AI innovation with a focus on South Asian contexts.
-
-- **Web Application Suite**  
-  A collection of modern, scalable web applications in development, powered by **React**, **Node.js**, and **Sails.js**. Designed for real-world use cases, these projects are coming soon—watch this space!
-
-- **ASP.NET Integration**  
-  An exploration of combining **ASP.NET** with **React** to create robust, full-stack solutions. Stay tuned for updates as this project evolves.
-
-Explore all our repositories [here](https://github.com/likhon-developer).
-
----
-
-## Members
-
-Our team is led by a skilled and driven developer, with room to grow:
-
-- **[Likhon Sheikh](https://github.com/likhon-sheikh)**  
-  A full-stack developer from Bangladesh with expertise in **React**, **Redux**, **Node.js**, **Sails.js**, **PHP**, **C#**, **ASP.NET**, **HTML5**, **CSS3**, and **JavaScript**. Likhon is the visionary behind the **Likhon 3.5 AI model** and the driving force of our community.
-
-*Interested in joining us?* We’re eager to collaborate with talented developers. Reach out to become part of our growing team!
-
----
-
-## Contribution Guidelines
-
-We warmly welcome contributions from the community! Whether you’re fixing bugs, adding features, or enhancing documentation, your input makes a difference. Here’s how to get started:
-
-1. Browse our repositories and pick a project that excites you.
-2. Check the project’s specific contribution guidelines (if available).
-3. Fork the repository and submit a pull request with your changes.
-
----
-
-## Contact Information
-
-Let’s stay connected:
-
-- **Email**: [me@likhon.dev](mailto:me@likhon.dev)  
-- **Telegram**: [likhondev](https://t.me/likhondev)  
-- **Website**: [likhon.dev](https://likhon.dev)  
-
----
-
-## Roadmap
-
-Here’s a glimpse of our journey:
-
-- [x] **Launch Likhon 3.5 AI model** – Successfully completed!  
-- [ ] **Integrate AI into our web applications** – Enhancing functionality with intelligent features.  
-- [ ] **Expand community outreach and collaboration** – Building a stronger developer network.
-
----
-
-Thank you for visiting **Likhon Developer**! We’re excited to shape the future of web development and AI together. 🌟
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=likhon-developer)](https://github.com/likhon-developer)
