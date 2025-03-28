@@ -1,9 +1,14 @@
 # 🚀 Likhon Developer: Innovating at the Intersection of AI and Web Development
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nectariferous/brand-assets/main/likhon-developer-illustration.svg" alt="Likhon Developer Illustration" width="400">
-</div>
+## 👨‍💻 Team Spotlight
 
+<div align="center">
+  <img src="https://github.com/likhonsheikh54.png" width="150" style="border-radius: 50%; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" alt="Likhon Sheikh Profile Picture">
+  
+  ### Likhon Sheikh
+  **Full Stack Innovator** | Bangladesh 🇧🇩  
+  *Creator of Likhon 3.5 and Lead Developer at Likhon Developer*
+</div>
 ## 💡 Our Vision
 
 **Crafting cutting-edge technological solutions that bridge AI and web development, with a focus on innovation from Bangladesh**
@@ -41,18 +46,6 @@
 - Innovative architectural design pushing technological boundaries
 
 **[View All Repositories](https://github.com/likhon-developer)**
-
----
-
-## 👨‍💻 Team Spotlight
-
-<div align="center">
-  <img src="https://github.com/likhonsheikh54.png" width="150" style="border-radius: 50%; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" alt="Likhon Sheikh Profile Picture">
-  
-  ### Likhon Sheikh
-  **Full Stack Innovator** | Bangladesh 🇧🇩  
-  *Creator of Likhon 3.5 and Lead Developer at Likhon Developer*
-</div>
 
 ---
 
