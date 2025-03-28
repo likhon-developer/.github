@@ -1,5 +1,3 @@
-# 🚀 Likhon Developer: Innovating at the Intersection of AI and Web Development
-
 ## 👨‍💻 Team Spotlight
 
 <div align="center">
