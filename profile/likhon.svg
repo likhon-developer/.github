@@ -1,0 +1,25 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with a slight gradient for depth -->
+  <rect width="200" height="200" fill="linear-gradient(to bottom, #f7f7f7, #e7e7e7)"/>
+  
+  <!-- Hexagon for Web3 with slight adjustments for better symmetry -->
+  <polygon points="100,15 165,55 165,145 100,185 35,145 35,55" fill="#1a73e8" fill-opacity="0.8"/>
+  
+  <!-- Inner circle for AI, slightly larger and with a subtle shadow -->
+  <circle cx="100" cy="100" r="45" fill="#34c759" fill-opacity="0.8"/>
+  <circle cx="100" cy="100" r="50" fill="none" stroke="#34c759" stroke-width="2" stroke-opacity="0.2"/>
+  
+  <!-- Shield for Security, simplified and centered -->
+  <path d="M90,70 C70,70 60,90 60,110 C60,130 90,150 90,150 C90,150 110,130 110,110 C110,90 100,70 90,70" fill="#ff5722" fill-opacity="0.8"/>
+  
+  <!-- Initials: LS, larger and bolder -->
+  <text x="100" y="110" font-family="Arial" font-size="30" font-weight="bold" fill="#fff" text-anchor="middle">LS</text>
+  
+  <!-- Name below, slightly larger and with better spacing -->
+  <text x="100" y="195" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">Likhon Sheikh</text>
+  
+  <!-- Contact icons simplified and positioned for better visibility -->
+  <text x="20" y="25" font-family="Arial" font-size="10" fill="#333">TG</text>
+  <text x="180" y="25" font-family="Arial" font-size="10" fill="#333">X</text>
+  <text x="20" y="180" font-family="Arial" font-size="10" fill="#333">GH</text>
+</svg>
